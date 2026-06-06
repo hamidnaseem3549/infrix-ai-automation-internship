@@ -1,3 +1,8 @@
-print("Hello, this is Hamid Naseem.")
-print("I am doing an AI and Automation Internship at Infrix.")
-print("This is my first task using GitHub version control.")
+name = "Hamid Naseem"
+internship = "AI and Automation Internship"
+company = "Infrix"
+
+print("Name:", name)
+print("Internship:", internship)
+print("Company:", company)
+print("Task 01 completed using GitHub version control.")
