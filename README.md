@@ -1,2 +1,2 @@
 # infrix-ai-automation-internship
-This repository contains infrix ai &amp; automation internships tasks.
+AI and Automation Internship tasks at Infrix.
