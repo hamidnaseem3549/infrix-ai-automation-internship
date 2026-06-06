@@ -1,2 +1,17 @@
 # infrix-ai-automation-internship
-AI and Automation Internship tasks at Infrix.
+
+# Infrix Internship Tasks
+
+This repository contains my weekly tasks completed during my AI and Automation Internship at Infrix.
+
+## Intern
+
+Hamid Naseem
+
+## Internship Domain
+
+AI and Automation
+
+## Tasks
+
+- Task 01: GitHub repository setup and version control practice
