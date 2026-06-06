@@ -1,4 +1,4 @@
-# infrix-ai-automation-internship
+# Infrix-AI-Automation-Internship
 
 # Infrix Internship Tasks
 
